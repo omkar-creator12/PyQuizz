@@ -1,1 +1,1 @@
-# PyQuizz
+PyQuiz is an interactive Python-based coding and quiz platform that blends learning with fun. Inspired by platforms like HackerRank and CodeWars, PyQuiz challenges users to solve programming problems, answer logic-based questions, and earn points while improving their coding skills. It’s designed especially for students, beginners, and coding enthusiasts who want to test and strengthen their Python knowledge in an engaging, game-like way.# PyQuizz
